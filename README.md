@@ -29,6 +29,10 @@ Climate change is a pressing issue, and reducing carbon emissions is crucial for
 ## ⚡ **How to Run This Project?**  
 
 ### **1️⃣ Install Dependencies**  
+
+DOWNLOAD THIS REPOSITORY (ZIP OR git clone https://github.com/Phoenix-sudo-tech/CARBON-FOOTPRINT-ANALYZER )
+Then ----> open cmd/terminal and write these following commands :
+
 Run the following command in your terminal:  
 ```sh
 npm install
