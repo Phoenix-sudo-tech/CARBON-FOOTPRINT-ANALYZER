@@ -39,6 +39,16 @@ Climate change is a pressing issue, and reducing carbon emissions is crucial for
 
 ## ⚡ **How to Run This Project?**  
 
+THERE ARE 2 OPTIONS TO RUN THIS PROJECT. ONLINE AND OFFLINE.
+
+FOR ONLINE ----
+
+WE DEPLOYED OUR PROJECT LIVE HERE ----> https://carbonfootprint1.netlify.app/ ( YOU CAN CHECK DIRECTLY FROM HERE ) 
+
+Or ,
+
+OFFLINE METHOD ---> 
+
 ### **1️⃣ Install Dependencies**  
 
 DOWNLOAD THIS REPOSITORY (ZIP OR git clone https://github.com/Phoenix-sudo-tech/CARBON-FOOTPRINT-ANALYZER )
@@ -55,6 +65,8 @@ Run the installer
 Select LTS (Long-Term Support) for stability
 Check the box for "Add to PATH"
 
+( THIS IS CRUCIAL STEP TO RUN THIS WHOLE PROJECT WITH npm )
+
 ```sh
 npm install
 npm run build
@@ -66,3 +78,7 @@ npm run dev
 ✅ IT SHOULD LOOK LIKE THIS , THEN JUST TYPE THIS IP AND PORT (IN THIS CASE --> http://localhost:8080/) IN ANY BROWSER AND YOU CAN USE IT TOO .
 
 *VIDEO TUTORIAL : https://youtu.be/t7TORnmSXt8
+
+
+
+THANK YOU ~ ( Team fr13nds )
