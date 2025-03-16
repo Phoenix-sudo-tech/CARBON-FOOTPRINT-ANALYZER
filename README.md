@@ -49,3 +49,8 @@ Run the following command in your terminal:
 npm install
 npm run build
 npm run dev
+
+
+![final6](https://github.com/user-attachments/assets/8b442583-31b8-4720-9ea9-5f81abe2fc0d)
+
+IT SHOULD LOOK LIKE THIS , THEN JUST TYPE THIS IP AND PORT IN ANY BROWSER
