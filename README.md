@@ -2,7 +2,7 @@
 ~ Building a Better Earth
 
 ### **Developed by**  
-👨‍💻 **Uttaran Chakraborty** & **Saswata Bhattacharjee**  
+👨‍💻 **Uttaran Chakraborty** ( MAIN DEVELOPER ) & **Saswata Bhattacharjee** (CO-PARTNER)  
 
 ---
 ![final1](https://github.com/user-attachments/assets/10979c6a-620b-42a5-ab85-cf0bcc555a08)
