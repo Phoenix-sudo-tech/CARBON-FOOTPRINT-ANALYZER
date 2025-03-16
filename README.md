@@ -36,5 +36,5 @@ Then ----> open cmd/terminal and write these following commands :
 Run the following command in your terminal:  
 ```sh
 npm install
-npm run dev
 npm run build
+npm run dev
