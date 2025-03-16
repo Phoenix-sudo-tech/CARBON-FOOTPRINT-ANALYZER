@@ -45,6 +45,16 @@ DOWNLOAD THIS REPOSITORY (ZIP OR git clone https://github.com/Phoenix-sudo-tech/
 Then ----> open cmd/terminal and write these following commands :
 
 Run the following command in your terminal:  
+
+Download Node.js (which includes NPM) from:
+👉 https://nodejs.org/
+
+2️⃣ Install Node.js
+
+Run the installer
+Select LTS (Long-Term Support) for stability
+Check the box for "Add to PATH"
+
 ```sh
 npm install
 npm run build
