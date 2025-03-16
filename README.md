@@ -1,0 +1,2 @@
+# CARBON-FOOTPRINT-ANALYZER
+ Carbon Footprint Analyzer is a blockchain-powered platform that helps individuals and businesses track, analyze, and reduce their carbon emissions. By calculating footprints from transportation, energy use, and food consumption, it provides data-driven insights to encourage eco-friendly habits. Using blockchain technology, it ensures transparency, security, and accountability in carbon tracking. This project plays a vital role in promoting sustainability and fighting climate change. 🌱🚀
