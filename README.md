@@ -5,6 +5,8 @@
 👨‍💻 **Uttaran Chakraborty** & **Saswata Bhattacharjee**  
 
 ---
+![final1](https://github.com/user-attachments/assets/10979c6a-620b-42a5-ab85-cf0bcc555a08)
+
 
 ## 🌱 **Project Goal: Why This Is Necessary?**  
 
@@ -14,10 +16,15 @@ Climate change is a pressing issue, and reducing carbon emissions is crucial for
 ✅ Offer AI-driven **chatbot assistance** for personalized recommendations on reducing carbon emissions.  
 ✅ Encourage eco-friendly decisions by gamifying the reduction process.  
 
+![final2](https://github.com/user-attachments/assets/080005af-ec37-4268-a0dd-5305af510217)
+
+
 🚀 **Why Is This Important?**  
 🌍 **Environmental Impact** - Helps reduce global carbon emissions.  
 🔗 **Blockchain Transparency** - Ensures accurate carbon tracking.  
 🤖 **AI-Powered Chatbot** - Provides real-time solutions for users.  
+
+![final3](https://github.com/user-attachments/assets/ab9839d7-97c8-4251-a69f-466604353f6e)
 
 ---
 🔮 Future Enhancements & Next Goals
@@ -25,6 +32,10 @@ Climate change is a pressing issue, and reducing carbon emissions is crucial for
 ✅ Advanced AI Chatbot - Provide more personalized and interactive guidance on reducing carbon footprints.
 ✅ IoT Integration - Connect with smart devices to measure real-time carbon impact.
 ✅ Mobile App - Develop an Android/iOS version to track and improve user engagement.
+
+
+![final4](https://github.com/user-attachments/assets/76436538-f4e7-4822-ae33-9233597f3bb9)
+
 
 ## ⚡ **How to Run This Project?**  
 
